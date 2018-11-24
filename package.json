@@ -56,5 +56,8 @@
       "json",
       "node"
     ]
+  },
+  "dependencies": {
+    "dotenv-webpack": "^1.5.7"
   }
 }
